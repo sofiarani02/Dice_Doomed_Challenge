@@ -1,10 +1,10 @@
 package dice_challenge;
 
 public class dice_partB {
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int[] Die_A = new int[]{1,2,3,4,5,6};
-		int[] Die_B = new int[]{1,2,3,4,5,6};
+     public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	int[] Die_A = new int[]{1,2,3,4,5,6};
+	int[] Die_B = new int[]{1,2,3,4,5,6};
         int[] New_Die_A;
         int[] New_Die_B;
         int[] result = undoom_dice(Die_A, Die_B);
